@@ -1,0 +1,1 @@
+dir on windows is similar to ls. Do dir/? for various options. You could also install 3rd party tools to allow you to run unix commands on windows.
